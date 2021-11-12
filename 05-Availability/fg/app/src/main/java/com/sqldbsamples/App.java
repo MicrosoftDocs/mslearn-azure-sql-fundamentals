@@ -14,7 +14,7 @@ public class App {
    // UPDATE WITH YOUR INFO
    private static final String FAILOVER_GROUP_NAME = "aw-server-fg-ID";  // add workshop ID
    // UPDATE WITH YOUR INFO
-   private static final String DB_NAME = "AdventureWorksID";  // add workshop ID
+   private static final String DB_NAME = "AdventureWorks";  // add database name
    // UPDATE WITH YOUR INFO
    private static final String USER = "cloudadmin";  // add database user
    // UPDATE WITH YOUR INFO
